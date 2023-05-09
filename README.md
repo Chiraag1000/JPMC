@@ -1,5 +1,5 @@
 #  Notes:
-*The original project descrption is below these notes*
+*The original project description is below these notes*
 
 *These notes explain some code design choices I wanted to correct and my corrections and assumptions of the functional requirements listed in the instructions*
 
